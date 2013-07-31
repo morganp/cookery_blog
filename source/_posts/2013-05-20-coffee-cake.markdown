@@ -12,7 +12,8 @@ tags:
 
 Cake (£? a portion) time to table  ~?.
 
-{% img left /images/CoffeeCake/.jpg %}
+{% img left /images/CoffeeCake/morganp-20130518-CoffeeCake-IMG_0822-Cake.jpg %}
+
 
     3x25 ml   double espresso
     200  g    plain flour
@@ -24,11 +25,16 @@ Cake (£? a portion) time to table  ~?.
     250  g    icing sugar
     1.5  tsp  baking powder
 
+{% img left /images/CoffeeCake/morganp-20130518-CoffeeCake-IMG_0801-Ingredients.jpg %}
 
 Preheat oven to 180 degrees C (gas mark 4)
 chop butter into cubes and leave to soften.
 
+{% img left /images/CoffeeCake/morganp-20130518-CoffeeCake-IMG_0804-Butter.jpg %}
+
 Prepare two 20cm spring form cakes tins, greasing with butter and placing a greaseproof paper disc in the bottom the greasing again.
+
+{% img left /images/CoffeeCake/morganp-20130518-CoffeeCake-IMG_0805-Tin.jpg %}
 
 Mix 200g of butter and the two types of sugar in a food processor.
 
@@ -44,6 +50,8 @@ Add in the flour, baking powder and 2 double espressos.
     1.5  tsp  baking powder
     2x25 ml   double espresso
     
+{% img left /images/CoffeeCake/morganp-20130518-CoffeeCake-IMG_0808_mix.jpg %}
+
 Spread the mix evenly in the spring form cake tins.
 Cook in the oven for around 20-25 minutes.
 
@@ -61,4 +69,8 @@ Now start top prepare the rummy cream (while cakes cooling): in a food processot
 Place cake base on a plate, spread 2/3 of the rummy cream over the base. 
 Place the next cake on top and evenly spread the remaining rummy cream over the top.
 
+{% img left /images/CoffeeCake/morganp-20130518-CoffeeCake-IMG_0818-Icing.jpg %}
+
 Finish with a dusting of crushed choclate coffe beans or grated chocolate.
+
+{% img left /images/CoffeeCake/morganp-20130518-CoffeeCake-IMG_0822-Cake.jpg %}
