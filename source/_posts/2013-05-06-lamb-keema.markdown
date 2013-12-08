@@ -6,8 +6,10 @@ comments: true
 categories: Curry
 tags: 
 - Recipe
+- Meat
 - Lamb
 - Curry
+- Spicy
 ---
 
 Lamb curry (£1.95 a serving) time to table ~1 hour.
